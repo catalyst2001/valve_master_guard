@@ -37,7 +37,7 @@ if errorlevel 1 (
 )
 
 :: Set the path where we just cloned
-set "sdk_path=%script_path%\source-sdk-2013"
+set "sdk_path=%script_path%\source-sdk-2013\src"
 
 :: Step 4: Set environment variable
 :setup_envvar
@@ -47,6 +47,13 @@ if errorlevel 1 (
     echo ERROR: Failed to set environment variable.
     goto end
 )
+
+:: building projects
+pushd
+echo Building projects...
+cd /d "%sdk_path%"
+call "createallprojects.bat"
+popd
 
 :: Step 5: Ask to open Environment Variables UI
 set /p show_env="Would you like to open the environment variables window now? (y/n): "
