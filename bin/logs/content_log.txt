@@ -1,0 +1,7 @@
+
+
+[2025-03-15 00:27:15] Client version: no bootstrapper found
+[2025-03-15 00:27:15] Load failed: E:\SteamLibrary\steamapps\common\Counter-Strike Source\bin\x64\steamapps\libraryfolders.vdf.
+[2025-03-15 00:27:15] Load failed: E:\SteamLibrary\steamapps\common\Counter-Strike Source\bin\x64\config\libraryfolders.vdf.
+[2025-03-15 00:27:15] Steam library folders configuration will be reset.
+[2025-03-15 00:27:15] No install folder configuration files found.

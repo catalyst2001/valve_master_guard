@@ -1,0 +1,6 @@
+
+
+[2025-03-15 00:27:15] Client version: no bootstrapper found
+[2025-03-15 00:27:15] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-03-15 00:27:15] Connectivity test (2.18.121.21:80 (2.18.121.21:80)): OK!
+[2025-03-15 00:27:15] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0

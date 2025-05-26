@@ -1,0 +1,7 @@
+
+
+[2025-03-15 00:27:15] Client version: no bootstrapper found
+[2025-03-15 00:27:15] Failed to read store 'install' from 'E:\SteamLibrary\steamapps\common\Counter-Strike Source\bin\x64\config\config.vdf.tmp'
+[2025-03-15 00:27:16] Flushed store 'install' to 'E:\SteamLibrary\steamapps\common\Counter-Strike Source\bin\x64\config\config.vdf'
+[2025-03-15 00:27:18] Flushed store 'install' to 'E:\SteamLibrary\steamapps\common\Counter-Strike Source\bin\x64\config\config.vdf'
+[2025-03-15 00:27:19] Flushed store 'install' to 'E:\SteamLibrary\steamapps\common\Counter-Strike Source\bin\x64\config\config.vdf'
